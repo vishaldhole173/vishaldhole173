@@ -67,7 +67,7 @@
 <br>
   
   [![Terraform](https://img.shields.io/badge/Automation-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
-  ![Ansible](https://img.shields.io/badge/Automation-Ansible-yellow??style=flat-square&logo=ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/Automation-Ansible-yellow??style=flat-square&logo=ansible&logoColor=white)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?style=flat-square&logo=amazon-aws&logoColor=white)
 ![EKS](https://img.shields.io/badge/EKS-AWS-purple?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
@@ -107,7 +107,7 @@
 ## 📝 Quick Overview 📝
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Onkar179&show_icons=true&include_all_commits=true&theme=radical" alt="Vishal's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vishaldhole163&show_icons=true&include_all_commits=true&theme=radical" alt="Vishal's github stats" />
 </a>
 <a href="https://github.com/hackcoderr/github-readme-stats">
  
